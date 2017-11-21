@@ -51,7 +51,6 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="32dp"
         android:minHeight="50dp"
-        android:visibility="invisible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/valorContadorET" />
