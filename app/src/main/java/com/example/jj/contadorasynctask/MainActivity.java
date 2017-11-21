@@ -134,7 +134,6 @@ public class MainActivity extends AppCompatActivity {
          */
         @Override
         protected void onCancelled() {
-            barraProgreso.setVisibility(ProgressBar.INVISIBLE);
             contador=null;
         }
     }
